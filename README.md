@@ -16,16 +16,17 @@ Home Escape Adventure is a console-based puzzle game built in Java. The player i
 
 Core: Java (Scanner, Random, Thread.sleep for effects)
 Concept: Object-Oriented Design, Console I/O, Game State Management
+
 # 🚀 How to Run
 
-```Ensure Java is installed.```
+    Ensure Java is installed.
 
-Compile: javac HomeEscape.java
+    Compile: javac HomeEscape.java
 
-Run: java HomeEscape
+    Run: java HomeEscape
 
-Follow the on-screen prompts to explore and escape.
-
+    Follow the on-screen prompts to explore and escape.
+    
 # 📁 Project Structure
 
      main() – Game loop, setup, difficulty selection.
