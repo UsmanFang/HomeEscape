@@ -2,15 +2,16 @@
 
 Home Escape Adventure is a console-based puzzle game built in Java. The player is locked inside a house and must find clues, solve a riddle, and manage limited attempts to unlock the front door and escape.
 # 🎮 Features
-   ### Room Exploration: Navigate the Living Room, Kitchen, Study, and Front Door.
+   **Room Exploration:** Navigate the Living Room, Kitchen, Study, and Front Door.
 
-   ### Clue Discovery: Find hidden digits to form a random 2‑digit door code.
+   **Clue Discovery:** Find hidden digits to form a random 2‑digit door code.
 
-   ### Riddle Puzzle: Solve a simple riddle to obtain a physical key.
+   **Riddle Puzzle:** Solve a simple riddle to obtain a physical key.
 
-   ### Attempt Management: Choose difficulty (Easy/Normal/Hard) with limited tries.
+   **Attempt Management:** Choose difficulty (Easy/Normal/Hard) with limited tries.
 
-    ASCII Art Interface: Clean, formatted console UI with visual borders.
+   **ASCII Art Interface:** Clean, formatted console UI with visual borders.
+   
 # 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
