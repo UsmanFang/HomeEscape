@@ -1,9 +1,10 @@
-- ### Source Code
-  [Download Source Code](https://github.com/UsmanFang/HomeEscape/blob/main/HomeEscape.java)
 - ### EXE File
   The ``EXE file`` is located in HomeEscape.zip — [Download Zip](https://github.com/UsmanFang/HomeEscape/raw/refs/heads/main/HomeEscape.zip)
 
       There is no need to install JAVA in system for EXE file.
+- ### Source Code
+  [Download Source Code](https://github.com/UsmanFang/HomeEscape/blob/main/HomeEscape.java)
+
 
 # 🏠 Home Escape Adventure – A Java Console Game
 
